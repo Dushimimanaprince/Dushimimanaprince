@@ -108,7 +108,7 @@ class Developer:
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dushimimanaprince/Dushimimanaprince/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Dushimimanaprince/Dushimimanaprince/main/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph" />
 </p>
 
 ---
