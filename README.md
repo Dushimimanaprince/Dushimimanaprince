@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+🚀;Python+|+Java+|+JavaScript;Building+awesome+things+with+code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -87,7 +87,7 @@ class Developer:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dushimimanaprince&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=bc8cff" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dushimimanaprince&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&bg_color=0d1117" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dushimimanaprince&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=bc8cff&fire=f778ba" alt="GitHub Streak" />
 </div>
 
@@ -210,7 +210,7 @@ I'm actively working on various projects. Check out my [repositories](https://gi
 ## 📈 Let's Grow Together
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=6E7681&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Don't+forget+to+⭐+repos+you+like;Let's+connect+and+build+amazing+things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=6E7681&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Don't+forget+to+⭐+repositories;Follow+for+more+amazing+content!" alt="Typing SVG" />
 </p>
 
 ---
