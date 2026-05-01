@@ -1,107 +1,224 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Prince+👋;Full-Stack+Developer+🚀;Python+%7C+Java+%7C+JavaScript;Django+%7C+Spring+Boot+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+🚀;Python+|+Java+|+JavaScript;Building+awesome+things+with+code" />
 </h1>
 
 <p align="center">
   <a href="https://github.com/Dushimimanaprince">
-    <img src="https://komarev.com/ghpvc/?username=Dushimimanaprince&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
+    <img src="https://komarev.com/ghpvc/?username=Dushimimanaprince&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
   <a href="https://github.com/Dushimimanaprince?tab=followers">
-    <img src="https://img.shields.io/github/followers/Dushimimanaprince?style=for-the-badge&color=bc8cff&labelColor=0d1117&label=FOLLOWERS" />
+    <img src="https://img.shields.io/github/followers/Dushimimanaprince?style=for-the-badge&color=bc8cff&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
+  </a>
+  <a href="https://github.com/Dushimimanaprince?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View-58a6ff?style=for-the-badge" alt="Repositories" />
   </a>
 </p>
 
 ---
 
-> 🤣 *"There are only 2 hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."*
-> — **Leon Bambrick** *(yes, that's 3)*
-
----
-
-## 👨‍💻 About Me
+## 💡 A Little About Me
 
 ```python
-developer = {
-    "name"     : "Dushimimana Prince",
-    "username" : "Dushimimanaprince",
-    "role"     : "Full-Stack Developer",
-    "languages": ["Python", "Java", "JavaScript"],
-    "frameworks": ["Django + DRF", "Spring Boot", "React.jsx"],
-    "current_mood": "☕ + 💻 = 🚀",
-    "fun_fact" : "I talk to rubber ducks when debugging 🦆"
-}
+class Developer:
+    def __init__(self):
+        self.name = "Dushimimana Prince"
+        self.username = "Dushimimanaprince"
+        self.role = "Full-Stack Developer"
+        self.location = "Building globally 🌍"
+        self.languages = ["Python", "Java", "JavaScript", "SQL"]
+        self.frameworks = ["Django + DRF", "Spring Boot", "React.jsx"]
+        self.databases = ["PostgreSQL", "MySQL", "MongoDB"]
+        self.passionate_about = ["Clean Code", "Problem Solving", "Open Source"]
+        self.current_mission = "Creating impactful software solutions ⚡"
+    
+    def fun_fact(self):
+        return "I talk to rubber ducks when debugging 🦆"
 ```
+
+> *"There are only 2 hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."* — Leon Bambrick *(yes, that's 3)*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💬 Languages
+### 💬 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### 🧩 Frameworks & Libraries
+### 🧩 Backend Frameworks & Tools
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🎨 Frontend Technologies
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### 🗄️ Databases & Data
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### 🧰 Developer Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dushimimanaprince&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=bc8cff" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dushimimanaprince&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=bc8cff&fire=f778ba" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dushimimanaprince&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dushimimanaprince&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=bc8cff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dushimimanaprince&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=bc8cff&fire=f778ba" />
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dushimimanaprince&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&langs_count=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dushimimanaprince&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=8&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dushimimanaprince&theme=nord&no-frame=true&no-bg=true&column=6&margin-w=8" />
+  <img src="https://raw.githubusercontent.com/Dushimimanaprince/Dushimimanaprince/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 💼 Skills & Expertise
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dushimimanaprince/Dushimimanaprince/output/github-contribution-grid-snake-dark.svg" />
-</p>
+### Backend Development
+- ✅ RESTful API Design & Development
+- ✅ Microservices Architecture
+- ✅ Database Design & Optimization
+- ✅ Authentication & Authorization
+- ✅ API Documentation & Testing
+
+### Frontend Development
+- ✅ Responsive Web Design
+- ✅ Component-Based Architecture
+- ✅ State Management
+- ✅ UI/UX Best Practices
+- ✅ Cross-browser Compatibility
+
+### DevOps & Deployment
+- ✅ Docker Containerization
+- ✅ Version Control (Git/GitHub)
+- ✅ CI/CD Pipelines
+- ✅ Server Management
+- ✅ Linux Administration
+
+### Software Engineering
+- ✅ Clean Code Principles
+- ✅ Design Patterns
+- ✅ Object-Oriented Programming
+- ✅ Agile Methodology
+- ✅ Code Review & Refactoring
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Current Focus
+
+- 🔨 Building scalable full-stack applications
+- 📚 Learning advanced system design patterns
+- 🤝 Contributing to open-source projects
+- 💡 Sharing knowledge through documentation
+- 🚀 Exploring new technologies & frameworks
+
+---
+
+## 📁 Featured Projects
+
+I'm actively working on various projects. Check out my [repositories](https://github.com/Dushimimanaprince?tab=repositories) to see:
+- Full-stack web applications
+- REST APIs & microservices
+- Open-source contributions
+- Learning projects & experiments
+
+---
+
+## 📚 Education & Learning
+
+- 🎓 Computer Science Fundamentals
+- 🔬 Data Structures & Algorithms
+- 🏗️ System Design & Architecture
+- 📖 Clean Code & Best Practices
+- 🌐 Web Development & Cloud Technologies
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Dushimimanaprince">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/dushimimana-prince">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 ---
 
+## 💰 Support My Work
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=6E7681&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+Don't+forget+to+⭐+repos+you+like+😄" />
+  <a href="https://www.buymeacoffee.com/yourprofile">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/yourprofile">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+</p>
+
+---
+
+## 📈 Let's Grow Together
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=6E7681&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Don't+forget+to+⭐+repos+you+like;Let's+connect+and+build+amazing+things!" />
+</p>
+
+---
+
+<p align="center">
+  <sub>⭐ If you found my profile interesting, please consider giving a star to my repositories and following me for more amazing content!</sub>
+</p>
+
+<p align="center">
+  Made with ❤️ by Dushimimana Prince | Last Updated: May 2026
 </p>
