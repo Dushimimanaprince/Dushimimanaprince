@@ -30,12 +30,13 @@ class Developer:
         self.databases = ["PostgreSQL", "MySQL", "MongoDB"]
         self.passionate_about = ["Clean Code", "Problem Solving", "Open Source"]
         self.current_mission = "Creating impactful software solutions ⚡"
-    
+
     def fun_fact(self):
         return "I talk to rubber ducks when debugging 🦆"
 ```
 
-> *"There are only 2 hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."* — Leon Bambrick *(yes, that's 3)*
+> 😂 *"Debugging is like being the detective in a crime movie where you are also the murderer."*
+> — **Classic Dev Humor**
 
 ---
 
@@ -88,11 +89,11 @@ class Developer:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dushimimanaprince&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dushimimanaprince&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=bc8cff&fire=f778ba" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Dushimimanaprince&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=bc8cff&fire=f778ba&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dushimimanaprince&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&langs_count=8" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dushimimanaprince&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&langs_count=8&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
@@ -108,7 +109,11 @@ class Developer:
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dushimimanaprince/Dushimimanaprince/main/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dushimimanaprince/Dushimimanaprince/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dushimimanaprince/Dushimimanaprince/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Dushimimanaprince/Dushimimanaprince/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
@@ -207,8 +212,6 @@ I'm actively working on various projects. Check out my [repositories](https://gi
 
 ---
 
-## 📈 Let's Grow Together
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=6E7681&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Don't+forget+to+⭐+repositories;Follow+for+more+amazing+content!" alt="Typing SVG" />
 </p>
@@ -216,7 +219,7 @@ I'm actively working on various projects. Check out my [repositories](https://gi
 ---
 
 <p align="center">
-  <sub>⭐ If you found my profile interesting, please consider giving a star to my repositories and following me for more amazing content!</sub>
+  <sub>⭐ If you found my profile interesting, please consider giving a star to my repositories and following me!</sub>
 </p>
 
 <p align="center">
