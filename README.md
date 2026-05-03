@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+GitHub+Profile!;Full-Stack+Dev+%26+ML+Enthusiast;Passionate+about+Code+%26+Data" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -23,16 +23,17 @@ class Developer:
     def __init__(self):
         self.name = "Dushimimana Prince"
         self.username = "Dushimimanaprince"
-        self.role = "Full-Stack Developer"
+        self.role = "Full-Stack Developer & ML Enthusiast"
         self.location = "Building globally 🌍"
         self.languages = ["Python", "Java", "JavaScript", "SQL"]
         self.frameworks = ["Django + DRF", "Spring Boot", "React.jsx"]
         self.databases = ["PostgreSQL", "MySQL", "MongoDB"]
-        self.passionate_about = ["Clean Code", "Problem Solving", "Open Source"]
-        self.current_mission = "Creating impactful software solutions ⚡"
+        self.ml_tools = ["Scikit-learn", "TensorFlow", "Pandas", "NumPy"]
+        self.passionate_about = ["Clean Code", "Problem Solving", "Machine Learning", "Open Source"]
+        self.current_mission = "Creating impactful software & AI solutions ⚡"
 
     def fun_fact(self):
-        return "I talk to rubber ducks when debugging 🦆"
+        return "I talk to rubber ducks when debugging 🦆 and discuss algorithms with myself 🤖"
 ```
 
 > 😂 *"Debugging is like being the detective in a crime movie where you are also the murderer."*
@@ -66,6 +67,16 @@ class Developer:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
+### 🤖 Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+</p>
+
 ### 🗄️ Databases & Data
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -88,7 +99,7 @@ class Developer:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dushimimanaprince&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dushimimanaprince&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=bc8cff&text_color=8b949e" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=Dushimimanaprince&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=bc8cff&fire=f778ba&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
 
@@ -134,6 +145,13 @@ class Developer:
 - ✅ UI/UX Best Practices
 - ✅ Cross-browser Compatibility
 
+### Machine Learning & Data Science
+- ✅ Supervised & Unsupervised Learning (Scikit-learn)
+- ✅ Classification & Regression Models
+- ✅ Data Preprocessing & Feature Engineering
+- ✅ Model Evaluation & Hyperparameter Tuning
+- ✅ Data Visualization & Analysis
+
 ### DevOps & Deployment
 - ✅ Docker Containerization
 - ✅ Version Control (Git/GitHub)
@@ -154,6 +172,8 @@ class Developer:
 
 - 🔨 Building scalable full-stack applications
 - 📚 Learning advanced system design patterns
+- 🤖 Exploring Machine Learning & AI applications
+- 🧠 Mastering Scikit-learn for predictive modeling
 - 🤝 Contributing to open-source projects
 - 💡 Sharing knowledge through documentation
 - 🚀 Exploring new technologies & frameworks
@@ -165,6 +185,7 @@ class Developer:
 I'm actively working on various projects. Check out my [repositories](https://github.com/Dushimimanaprince?tab=repositories) to see:
 - Full-stack web applications
 - REST APIs & microservices
+- Machine Learning models & data science projects
 - Open-source contributions
 - Learning projects & experiments
 
@@ -177,6 +198,8 @@ I'm actively working on various projects. Check out my [repositories](https://gi
 - 🏗️ System Design & Architecture
 - 📖 Clean Code & Best Practices
 - 🌐 Web Development & Cloud Technologies
+- 🤖 Machine Learning & AI Concepts
+- 📊 Data Science & Statistical Analysis
 
 ---
 
@@ -213,7 +236,7 @@ I'm actively working on various projects. Check out my [repositories](https://gi
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=6E7681&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Don't+forget+to+⭐+repositories;Follow+for+more+amazing+content!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=6E7681&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Don't+forget+to+⭐+my+repositories;Let's+collaborate+on+amazing+projects!" alt="Typing SVG" />
 </p>
 
 ---
