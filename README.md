@@ -33,7 +33,7 @@ class Developer:
         self.current_mission = "Creating impactful software & AI solutions ⚡"
 
     def fun_fact(self):
-        return "I talk to rubber ducks when debugging 🦆 and discuss algorithms with myself 🤖"
+        return "My code doesn't always work, but when it does, I have no idea why. 🤖"
 ```
 
 > 😂 *"Debugging is like being the detective in a crime movie where you are also the murderer."*
