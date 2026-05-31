@@ -26,8 +26,8 @@ class Developer:
         self.role = "Full-Stack Developer & ML Enthusiast"
         self.location = "Building globally 🌍"
         self.languages = ["Python", "Java", "JavaScript", "SQL"]
-        self.frameworks = ["Django + DRF", "Spring Boot", "React.jsx"]
-        self.databases = ["PostgreSQL", "MySQL", "MongoDB"]
+        self.frameworks = ["Django + DRF", "Spring Boot", "React"]
+        self.databases = ["PostgreSQL", "MySQL"]
         self.ml_tools = ["Scikit-learn", "TensorFlow", "Pandas", "NumPy"]
         self.passionate_about = ["Clean Code", "Problem Solving", "Machine Learning", "Open Source"]
         self.current_mission = "Creating impactful software & AI solutions ⚡"
